@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-const techs = ["WordPress", "Elementor", "HTML", "CSS", "JavaScript","Responsive Design"];
+const techs = ["WordPress", "Elementor",  "MetForm", "Royal Addons for Elementor", "WP Mail SMTP", "Custom HTML & CSS", "JavaScript","Responsive Design", "InfinityFree (hosting used during development)"];
 
 const HeroSection = () => (
   <section className="pb-20 sm:pb-24 md:pb-32 pt-16 sm:pt-20 md:pt-28 text-center">

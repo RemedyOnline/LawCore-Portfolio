@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import SectionHeading from "./SectionHeading";
 
-const techs = ["WordPress", "Elementor", "HTML", "CSS", "JavaScript", "Responsive Web Design", "WP Plugins"];
+const techs = ["WordPress", "Elementor",  "MetForm", "Royal Addons for Elementor", "WP Mail SMTP", "JavaScript", "Custom HTML & CSS","Responsive Design", "InfinityFree (hosting used during development)"];
 
 const TechSection = () => (
   <section className="py-16">
