@@ -55,8 +55,4 @@ const ContactSection = () => (
   </section>
 );
 
-// https://github.com/RemedyOnline
-// https://linkedin.com/in/agyemangmichael233
-// https://agyemangprempehmike.netlify.app/
-// (my cv in assets folder)
 export default ContactSection;
